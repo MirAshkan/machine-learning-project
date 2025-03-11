@@ -57,4 +57,29 @@ This is a growing collection of hands-on projects where I apply various machine 
     Next Steps:
         Hyperparameter tuning for better accuracy.
         Experiment with neural networks (ANNs) for price prediction.
+🚀 Future Updates
 
+This repository will be continuously updated with more projects, covering areas like:
+
+    Time Series Forecasting 📊
+    Reinforcement Learning 🤖
+    Deep Learning & Neural Networks 🧠
+    Real-world AI Applications 🌍
+
+📂 How to Use This Repository
+
+Clone the repository:
+
+    git clone https://github.com/MirAshkan/machine-learning-project.git
+
+Install required dependencies:
+
+    pip install -r requirements.txt
+
+Open and run Jupyter Notebooks:
+
+    jupyter notebook
+
+📢 Contributions & Feedback
+
+Have suggestions or want to collaborate? Feel free to open an issue or fork the repo! 😊
